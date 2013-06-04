@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a07bdac5-8ff3-45ab-9ffb-60551085e93f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/landing-page.css" />
-    </list>
+    <list default="true" id="a07bdac5-8ff3-45ab-9ffb-60551085e93f" name="Default" comment="" />
     <ignored path="WiU1306.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
