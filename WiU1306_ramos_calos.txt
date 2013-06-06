@@ -1,3 +1,4 @@
-http://Ramosc.github.io/WiU1306//landing-page.html
+http://Ramosc.github.io//WiU1306/landing-page.html
 
 
+landing-page.html
