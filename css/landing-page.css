@@ -1,0 +1,46 @@
+body{
+    background-image: url(../images/WUzAhV.png);
+}
+h1, h2{
+    font-family: 'Trade Winds', cursive;
+}
+header{
+    background-color: #778899;
+    width: 90%;
+    border-radius: 10px;
+    margin: 1% auto;
+}
+h1, h2{
+    padding: .5%;
+}
+#content-wrapper{
+    background-color: #778899;
+    width: 85%;
+    border-radius: 10px;
+    margin: 1% auto;
+    padding: 1%;
+}
+#surfer{
+    float: left;
+}
+figcaption{
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+ul{
+    list-style-type: none;
+}
+a:link{
+    color: purple;
+}
+a:visited{
+    color: #d3d3d3;
+}
+a:hover{
+    color: orange;
+}
+a.top:active{
+     color: #000;
+ }
