@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a07bdac5-8ff3-45ab-9ffb-60551085e93f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-detailPage.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-detailPageDesktop.ai" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-hompage.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-wireframes.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-wireframes/WiU1306_ramos_calos.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-wireframes/ramos-carlos-mobileForm.ai" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landing-page.html" afterPath="$PROJECT_DIR$/landing-page.html" />
     </list>
     <ignored path="WiU1306.iws" />
@@ -25,7 +32,7 @@
       <file leaf-file-name="landing-page.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/landing-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="70" selection-start="4160" selection-end="4160" vertical-scroll-proportion="0.7055016">
+            <state line="89" column="70" selection-start="5157" selection-end="5157" vertical-scroll-proportion="3.7443366">
               <folding />
             </state>
           </provider>
@@ -34,7 +41,7 @@
       <file leaf-file-name="wk4-final-project.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../DWS1/Lab/ramos-carlos-wk4final/wk4-final-project.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="191" column="17" selection-start="14516" selection-end="14673" vertical-scroll-proportion="-0.83870965">
+            <state line="191" column="17" selection-start="14516" selection-end="14673" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -351,9 +358,9 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/landing-page.css">
+    <entry file="file://$PROJECT_DIR$/../DWS1/Lab/ramos-carlos-wk4final/wk4-final-project.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="29" selection-start="139" selection-end="145" vertical-scroll-proportion="0.0">
+        <state line="191" column="17" selection-start="14516" selection-end="14673" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -365,16 +372,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DWS1/Lab/ramos-carlos-wk4final/wk4-final-project.html">
+    <entry file="file://$PROJECT_DIR$/css/landing-page.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="191" column="17" selection-start="14516" selection-end="14673" vertical-scroll-proportion="-0.83870965">
+        <state line="7" column="29" selection-start="139" selection-end="145" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/landing-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="70" selection-start="4160" selection-end="4160" vertical-scroll-proportion="0.7055016">
+        <state line="89" column="70" selection-start="5157" selection-end="5157" vertical-scroll-proportion="3.7443366">
           <folding />
         </state>
       </provider>
